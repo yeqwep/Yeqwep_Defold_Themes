@@ -7,7 +7,7 @@
 ![MANGO](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/MANGO.png)
 ### NIGHT_BLUE
 ![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/NIGHT_BLUE.png)
-## nstallation
+## Installation
 1. Create a folder named .defold in your user home directory.
  * On Windows C:\Users\[Your Username]\.defold
  * On macOS /Users/[Your Username]/.defold
