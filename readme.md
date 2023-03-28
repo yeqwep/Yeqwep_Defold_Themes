@@ -1,8 +1,8 @@
 # Yeqwep's Defold Skins
-![DOM](https://)
-![GREEN_TEA](https://)
-![MANGO](https://)
-![NIGHT_BLUE](https://)
+![DOM](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/DOM.png)
+![GREEN_TEA](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/GREEN_TEA.png)
+![MANGO](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/MANGO.png)
+![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/NIGHT_BLUE.png)
 ## nstallation
 1. Create a folder named .defold in your user home directory.
  * On Windows C:\Users\[Your Username]\.defold
