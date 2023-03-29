@@ -1,0 +1,41 @@
+* {
+	-df-background-darker: derive(#002451, -30%);
+	-df-background-dark: derive(#002451, -15%);
+	-df-background: #052143;
+	-df-background-light: derive(#061d3a, 12%);
+	-df-background-lighter: derive(#061d3a, 24%);
+
+	-df-component-darker: derive(#052143, -36%);
+	-df-component-dark: derive(#005ad1, -15%);
+	-df-component: #006eff;
+	-df-component-light: derive(#003c8b, 5%);
+	-df-component-lighter: derive(#003c8b, 10%);
+
+	-df-text-dark: derive(#B4B4AC -10%);
+	-df-text: #CCCCC3;
+	-df-text-selected: derive(#FFFFFF, 20%);
+
+	-df-defold-red-dark: derive(#FF4E5B, -10%);
+	-df-defold-red: #FF6E79;
+	-df-defold-red-light: derive(#FF6E79, 10%);
+
+	-df-defold-yellow-dark: derive(#ffd117, -10%);
+	-df-defold-yellow: #fdda4c;
+	-df-defold-yellow-light: derive(#fdda4c, 10%);
+	-df-defold-yellow-lighter: derive(#fdda4c, 20%);
+
+	-df-defold-green-dark: derive(#8ee920, -10%);
+	-df-defold-green: #a5ec47;
+	-df-defold-green-light: derive(#a5ec47, 10%);
+	-df-defold-green-lighter: derive(#a5ec47, 20%);
+
+	-df-defold-orange-dark: derive(#FFB067, -10%);
+	-df-defold-orange: #FFB067;
+	-df-defold-orange-light: derive(#FFB067, 10%);
+
+	-df-defold-blue-dark: derive(#2c8fff, -10%);
+	-df-defold-blue: #539ffd;
+	-df-defold-blue-light: derive(#539ffd, 10%);
+	-df-defold-blue-lighter: derive(#539ffd, 20%);
+}
+  
