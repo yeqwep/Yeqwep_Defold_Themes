@@ -1,4 +1,4 @@
-# Yeqwep's Defold Skins
+# Yeqwep's Defold Themes
 ### DOM
 ![DOM](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/DOM.png)
 ### GREEN_TEA
