@@ -1,0 +1,58 @@
+* {
+	-df-background-darker: derive(#664040, -20%);
+	-df-background-dark: derive(#f89757, -5%);
+	-df-background: derive(#bfe8ff, -3%);
+	-df-background-light: derive(#FADCF9, -5%);
+	-df-background-lighter: derive(#fff7f7, 10%);
+
+	-df-component-darker: derive(#9bceba, 20%);
+	-df-component-dark: derive(#b4f0d8, 90%);
+	-df-component: #e8fae4;
+	-df-component-light: derive(#68daab, 10%);
+	-df-component-lighter: derive(#68daab, 30%);
+
+	-df-text-darker:#ff0000;
+	-df-text-dark: derive(#5c5c5c, -20%);
+	-df-text: #43469A;
+	-df-text-selected: derive(#a3df97, -60%);
+
+	-df-defold-red-dark: derive(#cc0011, 0%);
+	-df-defold-red: #cc0011;
+	-df-defold-red-light: derive(#cc0011, 30%);
+
+	-df-defold-yellow-dark: derive(#976500, -10%);
+	-df-defold-yellow: #e9a410;
+	-df-defold-yellow-light: derive(#e9cd31, 10%);
+	-df-defold-yellow-lighter: derive(#e9cd31, 20%);
+
+	-df-defold-green-dark: derive(#11a55b, -20%);
+	-df-defold-green: #00532a;
+	-df-defold-green-light: derive(#00532a, 10%);
+	-df-defold-green-lighter: derive(#00532a, 20%);
+
+	-df-defold-orange-dark: derive(#ffffff, -10%);
+	-df-defold-orange: #ffffff;
+	-df-defold-orange-light: derive(#ffffff, 10%);
+
+	-df-defold-blue-dark: #393e80;
+	-df-defold-blue: #7a7fad;
+	-df-defold-blue-light: #9ca2b1;
+	-df-defold-blue-lighter: #005766;
+	/* Status colors */
+	-df-error-severity-fatal: -df-defold-red;
+	-df-error-severity-fatal-dim: -df-defold-red-dark;
+	-df-error-severity-warning: -df-defold-yellow;
+	-df-error-severity-warning-dim: -df-defold-yellow-dark;
+	-df-error-severity-info: -df-defold-yellow-lighter;
+	/* File extension group colors */
+	-df-folder:                #5fadda;
+	-df-folder-active:         derive(#5fadda, 30%);
+	-df-unknown-file:          #5fadda;
+	-df-unknown-file-active:   derive(#5fadda, 30%);
+	-df-design-file:           #3a4aff;
+	-df-design-file-active:    #3eabf3;
+	-df-script-file:           -df-defold-yellow;
+	-df-script-file-active:    -df-defold-yellow-light;
+	-df-property-file:         #289961;
+	-df-property-file-active:  derive(#53b383, 10%);
+}

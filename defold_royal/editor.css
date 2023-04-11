@@ -1,0 +1,58 @@
+* {
+	-df-background-darker: derive(#f86cff, -80%);
+	-df-background-dark: derive(#f86cff, -30%);
+	-df-background: derive(#2b2e41, 0%);
+	-df-background-light: derive(#793142, -5%);
+	-df-background-lighter: derive(#3c2f55, -30%);
+
+	-df-component-darker: derive(#3c2f55, 20%);
+	-df-component-dark: derive(#34bde7, -8%);
+	-df-component: #6781d4;
+	-df-component-light: derive(#c9b3ff, 30%);
+	-df-component-lighter: #ffffff;
+
+	-df-text-darker:#086b63;
+	-df-text-dark: derive(#1b978d 0%);
+	-df-text: #d6d2f1;
+	-df-text-selected: derive(#d6d2f1, 80%);
+
+	-df-defold-red-dark: derive(#ffff00, -10%);
+	-df-defold-red: #ffff00;
+	-df-defold-red-light: derive(#ffff60, 30%);
+
+	-df-defold-yellow-dark: derive(#cc8b00, -20%);
+	-df-defold-yellow: #cc8b00;
+	-df-defold-yellow-light: derive(#ffbc2c, 30%);
+	-df-defold-yellow-lighter: #ffffff;
+
+	-df-defold-green-dark: derive(#6aaa20, -10%);
+	-df-defold-green: #6aaa20;
+	-df-defold-green-light: derive(#8fda39, 10%);
+	-df-defold-green-lighter: derive(#8fda39, 20%);
+
+	-df-defold-orange-dark: derive(#00ff2a, -10%);
+	-df-defold-orange: #00ff2a;
+	-df-defold-orange-light: #ffffff;
+
+	-df-defold-blue-dark: derive(#7370ff, 20%);
+	-df-defold-blue: #7370ff;
+	-df-defold-blue-light: derive(#7370ff, 10%);
+	-df-defold-blue-lighter: #ffffff;
+	/* Status colors */
+	-df-error-severity-fatal: -df-defold-red;
+	-df-error-severity-fatal-dim: -df-defold-red-dark;
+	-df-error-severity-warning: -df-defold-yellow;
+	-df-error-severity-warning-dim: -df-defold-yellow-dark;
+	-df-error-severity-info: -df-defold-yellow-lighter;
+	/* File extension group colors */
+	-df-folder:                #332583;
+	-df-folder-active:         derive(#332583, 80%);
+	-df-unknown-file:          #8cb063;
+	-df-unknown-file-active:   derive(#8cb063, 80%);
+	-df-design-file:           #5fadda;
+	-df-design-file-active:    derive(#5fadda, 80%);
+	-df-script-file:           -df-defold-yellow;
+	-df-script-file-active:    -df-defold-yellow-light;
+	-df-property-file:         #ff008c;
+	-df-property-file-active:  derive(#ff008c, 80%);
+}
