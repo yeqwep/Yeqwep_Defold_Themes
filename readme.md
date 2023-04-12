@@ -1,28 +1,30 @@
 # Yeqwep's Defold Themes
+### BACCARAT
+![BACCARAT](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/BACCARAT.png)
+### DOBU
+![DOBU](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/DOBU.png)
 ### DOM
 ![DOM](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/DOM.png)
 ### GREEN_TEA
 ![GREEN_TEA](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/GREEN_TEA.png)
+### HIGHWAY
+![HIGHWAY](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/HIGHWAY.png)
 ### MANGO
 ![MANGO](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/MANGO.png)
 ### NIGHT_BLUE
 ![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/NIGHT_BLUE.png)
-### DOBU
-![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/DOBU.png)
-### ROAD
-![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/ROAD.png)
-### ROYAL
-![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/ROYAL.png)
-### ROYAL2
-![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/ROYAL2.png)
-### SPRING
-![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/SPRING.png)
 ### RED_SAMURAI
-![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/RED_SAMURAI.png)
-### BACCARAT
-![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/BACCARAT.png)
+![RED_SAMURAI](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/RED_SAMURAI.png)
+### ROAD
+![ROAD](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/ROAD.png)
+### ROYAL
+![ROYAL](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/ROYAL.png)
+### ROYAL2
+![ROYAL2](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/ROYAL2.png)
+### SPRING
+![SPRING](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/SPRING.png)
 ### YOSHI
-![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/YOSHI.png)
+![YOSHI](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/YOSHI.png)
 ## Installation
 1. Create a folder named .defold in your user home directory.
  * On Windows C:\Users\[Your Username]\.defold
