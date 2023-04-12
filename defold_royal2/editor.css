@@ -1,13 +1,13 @@
 * {
 	-df-background-darker: derive(#f86cff, -80%);
 	-df-background-dark: derive(#f86cff, -30%);
-	-df-background: derive(#2b2e41, 0%);
-	-df-background-light: derive(#793142, -5%);
-	-df-background-lighter: derive(#3c2f55, -30%);
+	-df-background: #5f263d;
+	-df-background-light: #17274d;
+	-df-background-lighter: derive(#17274d, 30%);
 
 	-df-component-darker: derive(#2b213d, 20%);
-	-df-component-dark: derive(#34bde7, -8%);
-	-df-component: #6781d4;
+	-df-component-dark: derive(#305f96, 28%);
+	-df-component: #305f96;
 	-df-component-light: derive(#faffb3, 30%);
 	-df-component-lighter: #ffffff;
 
@@ -34,9 +34,9 @@
 	-df-defold-orange: #00ff2a;
 	-df-defold-orange-light: #ffffff;
 
-	-df-defold-blue-dark: derive(#0f0ca5, 20%);
-	-df-defold-blue: #0f0ca5;
-	-df-defold-blue-light: derive(#0f0ca5, 10%);
+	-df-defold-blue-dark: derive(#4846b9, 20%);
+	-df-defold-blue: #4846b9;
+	-df-defold-blue-light: derive(#4846b9, 10%);
 	-df-defold-blue-lighter: #ffffff;
 	/* Status colors */
 	-df-error-severity-fatal: -df-defold-red;
@@ -45,8 +45,8 @@
 	-df-error-severity-warning-dim: -df-defold-yellow-dark;
 	-df-error-severity-info: -df-defold-yellow-lighter;
 	/* File extension group colors */
-	-df-folder:                #2d274b;
-	-df-folder-active:         derive(#2d274b, 80%);
+	-df-folder:                #664a3d;
+	-df-folder-active:         derive(#664a3d, 80%);
 	-df-unknown-file:          #888888;
 	-df-unknown-file-active:   derive(#888888, 80%);
 	-df-design-file:           #5fadda;

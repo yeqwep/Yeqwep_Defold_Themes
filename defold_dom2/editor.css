@@ -2,8 +2,8 @@
 	-df-background-darker: derive(#2b2738, -10%);
 	-df-background-dark: derive(#2b2738, -5%);
 	-df-background: #2b2738;
-	-df-background-light: derive(#413b5c, 8%);
-	-df-background-lighter: derive(#413b5c, 24%);
+	-df-background-light: derive(#4d3b5c, 8%);
+	-df-background-lighter: derive(#4d3b5c, 24%);
 
 	-df-component-darker: derive(#2a233a, -30%);
 	-df-component-dark: derive(#db69af, -30%);

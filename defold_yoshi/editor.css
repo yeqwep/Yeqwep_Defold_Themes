@@ -1,0 +1,58 @@
+* {
+	-df-background-darker: derive(#4e454a, -80%);
+	-df-background-dark: derive(#4e454a, -30%);
+	-df-background: derive(#ffa958, -10%);
+	-df-background-light: #26282c;
+	-df-background-lighter: derive(#26282c, 16%);
+
+	-df-component-darker: derive(#26282c, 20%);
+	-df-component-dark: derive(#F6AA00, -20%);
+	-df-component: #F6AA00;
+	-df-component-light: derive(#F2E700, 30%);
+	-df-component-lighter: derive(#F2E700, 40%);
+
+	-df-text-darker:#ff0000;
+	-df-text-dark: #ffffff;
+	-df-text: #ffffff;
+	-df-text-selected: #ffffff;
+
+	-df-defold-red-dark: derive(#FF4B00, 0%);
+	-df-defold-red: #FF4B00;
+	-df-defold-red-light: derive(#FF4B00, 30%);
+
+	-df-defold-yellow-dark: derive(#F2E700, -10%);
+	-df-defold-yellow: #F2E700;
+	-df-defold-yellow-light: derive(#F2E700, 10%);
+	-df-defold-yellow-lighter: derive(#F2E700, 20%);
+
+	-df-defold-green-dark: derive(#00B06B, -10%);
+	-df-defold-green: #00B06B;
+	-df-defold-green-light: derive(#00B06B, 10%);
+	-df-defold-green-lighter: derive(#00B06B, 20%);
+
+	-df-defold-orange-dark: derive(#ffffff, -10%);
+	-df-defold-orange: #ffffff;
+	-df-defold-orange-light: derive(#ffffff, 10%);
+
+	-df-defold-blue-dark: derive(#1971FF, -20%);
+	-df-defold-blue: #1971FF;
+	-df-defold-blue-light: derive(#1971FF, 10%);
+	-df-defold-blue-lighter: derive(#1971FF, 30%);
+	/* Status colors */
+	-df-error-severity-fatal: -df-defold-red;
+	-df-error-severity-fatal-dim: -df-defold-red-dark;
+	-df-error-severity-warning: -df-defold-yellow;
+	-df-error-severity-warning-dim: -df-defold-yellow-dark;
+	-df-error-severity-info: -df-defold-yellow-lighter;
+	/* File extension group colors */
+	-df-folder:                #F2E700;
+	-df-folder-active:         derive(#ffa958, 50%);
+	-df-unknown-file:          #990099;
+	-df-unknown-file-active:   derive(#990099, 50%);
+	-df-design-file:           #1971FF;
+	-df-design-file-active:    derive(#1971FF, 50%);
+	-df-script-file:           #F2E700;
+	-df-script-file-active:    derive(#ffa958, 50%);
+	-df-property-file:         #00B06B;
+	-df-property-file-active:  derive(#00B06B, 50%);
+}

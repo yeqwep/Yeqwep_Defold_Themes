@@ -1,0 +1,60 @@
+* {
+	-df-background-darker: derive(#2e1414, -80%);
+	-df-background-dark: derive(#2e1414, -30%);
+	-df-background: derive(#79b8cf, -5%);
+	-df-background-light: derive(#656C85, -5%);
+	-df-background-lighter: derive(#656C85, 30%);
+
+	-df-component-darker: #007356;
+	-df-component-dark: derive(#00d6b3 , -30%);
+	-df-component: #36DDC0 ;
+	-df-component-light: derive(#36DDC0, 20%);
+	-df-component-lighter: #ffffff;
+
+	-df-text-darker:derive(#32105a, -20%);
+	-df-text-dark: derive(#32105a 0%);
+	-df-text: #e4e9f0;
+	-df-text-selected: #ffffff;
+
+	-df-defold-red-dark: derive(#dd216f, 0%);
+	-df-defold-red: #dd216f;
+	-df-defold-red-light: derive(#dd216f, 30%);
+
+	-df-defold-yellow-dark: derive(#a37800, -30%);
+	-df-defold-yellow: #fbff00;
+	-df-defold-yellow-light: derive(#a37800, 0%);
+	-df-defold-yellow-lighter: derive(#a37800, 30%);
+
+	-df-defold-green-dark: derive(#08740e, -30%);
+	-df-defold-green: #00ff0d;
+	-df-defold-green-light: derive(#08740e, -10%);
+	-df-defold-green-lighter: derive(#08740e, -20%);
+
+	-df-defold-orange-dark: #ffffff;
+	-df-defold-orange: #ffffff;
+	-df-defold-orange-light: #ffffff;
+
+	-df-defold-blue-dark: derive(#0044ff, 20%);
+	-df-defold-blue: #1cffec;
+	-df-defold-blue-light: derive(#00ad9f, -50%);
+	-df-defold-blue-lighter: derive(#bdfff9, 50%);
+	/* Status colors */
+	-df-error-severity-fatal: -df-defold-red;
+	-df-error-severity-fatal-dim: -df-defold-red-dark;
+	-df-error-severity-warning: -df-defold-yellow;
+	-df-error-severity-warning-dim: -df-defold-yellow-dark;
+	-df-error-severity-info: -df-defold-blue-lighter;
+
+
+	/* File extension group colors */
+	-df-folder:                #e4e9f0;
+	-df-folder-active:         #314370;
+	-df-unknown-file:          #9bafbe;
+	-df-unknown-file-active:   #394564;
+	-df-design-file:           #4fb9ff;
+	-df-design-file-active:    derive(#0044ff, -30%);
+	-df-script-file:           -df-defold-yellow;
+	-df-script-file-active:    -df-defold-yellow-lighter;
+	-df-property-file:         -df-defold-green;
+	-df-property-file-active:  -df-defold-green-light;
+}

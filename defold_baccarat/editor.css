@@ -1,0 +1,58 @@
+* {
+	-df-background-darker: derive(#4e454a, -80%);
+	-df-background-dark: derive(#4e454a, -30%);
+	-df-background: #4e454a;
+	-df-background-light: #005c42;
+	-df-background-lighter: derive(#005c42, 16%);
+
+	-df-component-darker: derive(#005c42, -20%);
+	-df-component-dark: derive(#ea618e, 20%);
+	-df-component: #c4972f;
+	-df-component-light: derive(#f091b1, 30%);
+	-df-component-lighter: derive(#f091b1, 40%);
+
+	-df-text-darker:#ff0000;
+	-df-text-dark: #fffae3;
+	-df-text: derive(#fffae3, 20%);
+	-df-text-selected: #ffffff;
+
+	-df-defold-red-dark: derive(#d70035, 0%);
+	-df-defold-red: #d70035;
+	-df-defold-red-light: derive(#d70035, 30%);
+
+	-df-defold-yellow-dark: derive(#ffdc00, -10%);
+	-df-defold-yellow: #ffdc00;
+	-df-defold-yellow-light: derive(#ffdc00, 10%);
+	-df-defold-yellow-lighter: derive(#ffdc00, 20%);
+
+	-df-defold-green-dark: derive(#9cbb1c, -10%);
+	-df-defold-green: #9cbb1c;
+	-df-defold-green-light: derive(#9cbb1c, 10%);
+	-df-defold-green-lighter: derive(#9cbb1c, 20%);
+
+	-df-defold-orange-dark: derive(#ffffff, -10%);
+	-df-defold-orange: #ffffff;
+	-df-defold-orange-light: derive(#ffffff, 10%);
+
+	-df-defold-blue-dark: derive(#25b7c0, -20%);
+	-df-defold-blue: #25b7c0;
+	-df-defold-blue-light: derive(#25b7c0, 10%);
+	-df-defold-blue-lighter: derive(#25b7c0, 30%);
+	/* Status colors */
+	-df-error-severity-fatal: -df-defold-red;
+	-df-error-severity-fatal-dim: -df-defold-red-dark;
+	-df-error-severity-warning: -df-defold-yellow;
+	-df-error-severity-warning-dim: -df-defold-yellow-dark;
+	-df-error-severity-info: -df-defold-yellow-lighter;
+	/* File extension group colors */
+	-df-folder:                #24140e;
+	-df-folder-active:         #fafdff;
+	-df-unknown-file:          #b250b8;
+	-df-unknown-file-active:   derive(#b250b8, 30%);
+	-df-design-file:           #62b4eb;
+	-df-design-file-active:    derive(#62b4eb, 30%);
+	-df-script-file:           -df-defold-yellow;
+	-df-script-file-active:    -df-defold-yellow-light;
+	-df-property-file:         #ea5550;
+	-df-property-file-active:  #fafdff;
+}
