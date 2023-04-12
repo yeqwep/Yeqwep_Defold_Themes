@@ -13,8 +13,16 @@
 ![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/ROAD.png)
 ### ROYAL
 ![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/ROYAL.png)
+### ROYAL2
+![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/ROYAL2.png)
 ### SPRING
 ![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/SPRING.png)
+### RED_SAMURAI
+![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/RED_SAMURAI.png)
+### BACCARAT
+![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/BACCARAT.png)
+### YOSHI
+![NIGHT_BLUE](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/YOSHI.png)
 ## Installation
 1. Create a folder named .defold in your user home directory.
  * On Windows C:\Users\[Your Username]\.defold
