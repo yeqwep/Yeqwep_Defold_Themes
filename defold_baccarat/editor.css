@@ -6,10 +6,10 @@
 	-df-background-lighter: derive(#005c42, 16%);
 
 	-df-component-darker: derive(#005c42, -20%);
-	-df-component-dark: derive(#ea618e, 20%);
+	-df-component-dark: derive(#ea618e, -20%);
 	-df-component: #c4972f;
-	-df-component-light: derive(#f091b1, 30%);
-	-df-component-lighter: derive(#f091b1, 40%);
+	-df-component-light: derive(#f091b1, 10%);
+	-df-component-lighter: derive(#f091b1, 20%);
 
 	-df-text-darker:#ff0000;
 	-df-text-dark: #fffae3;
