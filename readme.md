@@ -5,6 +5,8 @@
 ![DOBU](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/DOBU.png)
 ### DOM
 ![DOM](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/DOM.png)
+### GB
+![GREEN_TEA](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/GB.png)
 ### GREEN_TEA
 ![GREEN_TEA](https://github.com/yeqwep/Yeqwep_Defold_Skins/blob/main/sample_img/GREEN_TEA.png)
 ### HIGHWAY

@@ -12,7 +12,7 @@
 	-df-component-lighter: derive(#db69af, 40%);
 
 	-df-text-darker:#ff0000;
-	-df-text-dark: derive(#B4B4AC -10%);
+	-df-text-dark: #dab018;
 	-df-text: #CCCCC3;
 	-df-text-selected: #FFFFFF;
 
@@ -47,10 +47,10 @@
 	/* File extension group colors */
 	-df-folder:                #CCCCC3;
 	-df-folder-active:         #FFFFFF;
-	-df-unknown-file:          #CCCCC3;
+	-df-unknown-file:          #b0b070;
 	-df-unknown-file-active:   #FFFFFF;
 	-df-design-file:           -df-defold-blue;
-	-df-design-file-active:    derive(#539ffd, 10%);
+	-df-design-file-active:    -df-defold-blue-light;
 	-df-script-file:           -df-defold-yellow;
 	-df-script-file-active:    -df-defold-yellow-light;
 	-df-property-file:         -df-defold-green;

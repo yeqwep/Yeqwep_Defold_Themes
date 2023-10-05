@@ -1,0 +1,58 @@
+* {
+	-df-background-darker: #130baf;
+	-df-background-dark: #251e9a;
+	-df-background: #918B91;
+	-df-background-light: #c2b9b7;
+	-df-background-lighter: #698106;
+
+	-df-component-darker: #9CBD07;
+	-df-component-dark: #698106;
+	-df-component: #2C622C;
+	-df-component-light: #3E3A8A;
+	-df-component-lighter: #171188;
+
+	-df-text-darker:#da619d;
+	-df-text-dark: #303230;
+	-df-text: #3a3878;
+	-df-text-selected: #ffffff;
+
+	-df-defold-red-dark: #b9000f;
+	-df-defold-red: #ff0015;
+	-df-defold-red-light: #ff838d;
+
+	-df-defold-yellow-dark: derive(#ac6400, -10%);
+	-df-defold-yellow: #ac6400;
+	-df-defold-yellow-light: #271e11;
+	-df-defold-yellow-lighter: #ffffff;
+
+	-df-defold-green-dark: #0F360F;
+	-df-defold-green: #2C622C;
+	-df-defold-green-light: #242911;
+	-df-defold-green-lighter: #ffffff;
+
+	-df-defold-orange-dark: #eeeeee;
+	-df-defold-orange: #ffffff;
+	-df-defold-orange-light: #ffffff;
+
+	-df-defold-blue-dark: derive(#5752b7, 50%);
+	-df-defold-blue: #3E3A8A;
+	-df-defold-blue-light: #3a3878;
+	-df-defold-blue-lighter: #ffffff;
+	/* Status colors */
+	-df-error-severity-fatal: -df-defold-red;
+	-df-error-severity-fatal-dim: -df-defold-red-dark;
+	-df-error-severity-warning: -df-defold-yellow;
+	-df-error-severity-warning-dim: -df-defold-yellow-dark;
+	-df-error-severity-info: -df-defold-yellow-lighter;
+	/* File extension group colors */
+	-df-folder:                #8C2C5C;
+	-df-folder-active:         #ffffff;
+	-df-unknown-file:          #8a3a7e;
+	-df-unknown-file-active:   #ffffff;
+	-df-design-file:           -df-defold-blue;
+	-df-design-file-active:    #ffffff;
+	-df-script-file:           -df-defold-yellow;
+	-df-script-file-active:    #ffffff;
+	-df-property-file:         -df-defold-green;
+	-df-property-file-active:  #ffffff;
+}
