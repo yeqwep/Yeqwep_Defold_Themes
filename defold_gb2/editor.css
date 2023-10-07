@@ -3,10 +3,10 @@
 	-df-background-dark: #251e9a;
 	-df-background: #918B91;
 	-df-background-light: #c2b9b7;
-	-df-background-lighter: #58754F;
+	-df-background-lighter: #919f4b;
 
-	-df-component-darker: #b4dc02;
-	-df-component-dark: #688016;
+	-df-component-darker: #B6D03B;
+	-df-component-dark: #669368;
 	-df-component: #983868;
 	-df-component-light: #2b2772;
 	-df-component-lighter: #0e087a;
@@ -14,7 +14,7 @@
 	-df-text-darker:#da619d;
 	-df-text-dark: #303230;
 	-df-text: #3a3878;
-	-df-text-selected: #ffffff;
+	-df-text-selected: #fefffd;
 
 	-df-defold-red-dark: #b9000f;
 	-df-defold-red: #ff0015;
@@ -23,12 +23,12 @@
 	-df-defold-yellow-dark: #ff9500;
 	-df-defold-yellow: #ac6400;
 	-df-defold-yellow-light: #271e11;
-	-df-defold-yellow-lighter: #ffffff;
+	-df-defold-yellow-lighter: #fefffd;
 
 	-df-defold-green-dark: #0F360F;
-	-df-defold-green: #2C622C;
-	-df-defold-green-light: #242911;
-	-df-defold-green-lighter: #ffffff;
+	-df-defold-green: #58754F;
+	-df-defold-green-light: #32544F;
+	-df-defold-green-lighter: #fefffd;
 
 	-df-defold-orange-dark: #6e2349;
 	-df-defold-orange: #9d2963;
@@ -37,7 +37,7 @@
 	-df-defold-blue-dark: #9993ff;
 	-df-defold-blue: #4642a1;
 	-df-defold-blue-light: #333167;
-	-df-defold-blue-lighter: #ffffff;
+	-df-defold-blue-lighter: #fefffd;
 	/* Status colors */
 	-df-error-severity-fatal: -df-defold-red;
 	-df-error-severity-fatal-dim: -df-defold-red-dark;
@@ -46,13 +46,13 @@
 	-df-error-severity-info: -df-defold-yellow-lighter;
 	/* File extension group colors */
 	-df-folder:                #8C2C5C;
-	-df-folder-active:         #ffffff;
+	-df-folder-active:         #fefffd;
 	-df-unknown-file:          #a4496f;
-	-df-unknown-file-active:   #ffffff;
+	-df-unknown-file-active:   #fefffd;
 	-df-design-file:           -df-defold-blue;
-	-df-design-file-active:    #ffffff;
+	-df-design-file-active:    #fefffd;
 	-df-script-file:           -df-defold-yellow;
-	-df-script-file-active:    #ffffff;
+	-df-script-file-active:    #fefffd;
 	-df-property-file:         -df-defold-green;
-	-df-property-file-active:  #ffffff;
+	-df-property-file-active:  #fefffd;
 }
