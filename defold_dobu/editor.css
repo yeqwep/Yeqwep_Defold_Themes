@@ -1,7 +1,7 @@
 * {
 	-df-background-darker: derive(#2e1414, -80%);
 	-df-background-dark: derive(#2e1414, -30%);
-	-df-background: derive(#70a397, 0%);
+	-df-background: derive(#508a7d, 0%);
 	-df-background-light: derive(#587458, 5%);
 	-df-background-lighter: derive(#044417, 10%);
 
@@ -12,8 +12,8 @@
 	-df-component-lighter: derive(#edff87, 30%);
 
 	-df-text-darker:#ff0000;
-	-df-text-dark: #cecece;
-	-df-text: derive(#bfeca1, 20%);
+	-df-text-dark: #e0e1f5;
+	-df-text: derive(#d0f0bb, 20%);
 	-df-text-selected: #ffffff;
 
 	-df-defold-red-dark: derive(#ff0015, 0%);
@@ -30,9 +30,9 @@
 	-df-defold-green-light: derive(#0ca113, 10%);
 	-df-defold-green-lighter: derive(#0ca113, 20%);
 
-	-df-defold-orange-dark: derive(#ffffff, -10%);
-	-df-defold-orange: #ffffff;
-	-df-defold-orange-light: derive(#ffffff, 10%);
+	-df-defold-orange-dark: derive(#b18734, -10%);
+	-df-defold-orange: #b18734;
+	-df-defold-orange-light: derive(#b18734, 10%);
 
 	-df-defold-blue-dark: derive(#1518c9, -20%);
 	-df-defold-blue: #4e465c;
